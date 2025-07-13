@@ -62,9 +62,9 @@ npm install
 npm run dev
 ```
 
-### MAKE SURE TO CHECK SETTINGS PAGE TO INSTALL THE OLLAMA MODELS
+### MAKE SURE TO CHECK THE SETTINGS PAGE TO INSTALL THE OLLAMA MODELS
 
 ---
 
 ## 🤝 Credits / Contact
-Made with ❤️ by [Your Name].
+Made with ❤️ by ME. --Note that this Readme was AI-generated.
