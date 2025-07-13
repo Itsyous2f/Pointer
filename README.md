@@ -25,7 +25,7 @@ Pointer is a custom-built AI-powered productivity workspace designed for student
 
 ## 📸 Screenshot
 
-![Example](./screenshot/example.png)
+![Example](./screenshots/preview.png)
 
 ---
 
